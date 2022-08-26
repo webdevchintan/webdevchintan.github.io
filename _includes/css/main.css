@@ -112,7 +112,8 @@ header .intro-text .skills {
 header .intro-text .description {
     font-size: 1em;
     font-weight: 300;
-    margin-top: 15px
+    width: 500px;
+    margin: 15px auto 0px;
 }
 
 @media(min-width:768px) {
